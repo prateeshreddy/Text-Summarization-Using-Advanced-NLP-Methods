@@ -1,6 +1,6 @@
 # Text Summarization Using Advanced NLP Methods
 
-A part of this research has started by my team working for [Eli Lilly](https://www.lilly.com/who-we-are/about-lilly) in Summer 2021 and further continued. 
+A part of this research has started by my team working for [Eli Lilly](https://www.lilly.com/who-we-are/about-lilly) as interns in Summer 2021 and further continued. 
 For more information look into the presentation and [contact me](https://github.com/prateeshreddy) for further details
 
 ## Lilly RegQuest :
