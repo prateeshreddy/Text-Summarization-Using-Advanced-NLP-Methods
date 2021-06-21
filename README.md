@@ -58,7 +58,7 @@ what we are trying to achieve using Deep Learning ?
 
 It tries to find words to get a best answer. If the best answer is wrong, it will still produce it. 
 Summary Concentrates more on correctness than human readable. We still do not have concrete proof that this works and <b>I wish to further pursue this research</b>
-and learn at the same time contribute to the amazing Natural language Processing enthusiasts out here.
+and learn at the same time contribute to the Open Source for the amazing Natural language Processing enthusiasts out here.
 
 
 ## References:
