@@ -19,6 +19,8 @@ So, we need to identify key words or sentences of the existing text.
 that exist in the original text. It is closer to what humans usually expect from text summarization. The process is to understand the original document 
 and rephrase the document to a shorter text while capturing the key points.
 
+Example: This type of summarization is what you do while trying to briefly explain about the book you read/ movie you saw to your friend.
+
 
 ![Types_of_summ](Files/Types_of_summ.png)
 
